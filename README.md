@@ -41,3 +41,5 @@ tenantid	SPN Tenant ID (tenant)	Secret
 vda	VDA File Name	VDAServerSetup_2006.exe
 vdacontrollers	Comma seperated list of cloud connectors	CTX-CC01.LAB.LOCAL
 
+
+This is based on Ryan Cutler's repo here: https://github.com/ryancbutler/converge-2020 
